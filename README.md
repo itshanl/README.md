@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hannah Atuli
+# Hi there 👋, I'm Hannah Atuli.
 
 ## About Me
 I'm a passionated love learning new technologies and building projects that make life easier in through real time.
